@@ -1,6 +1,6 @@
-price = input("price")
-hour = input("hour")
-name = input("what is your name")
-pay = int(price) * int(hour)
+x=10
+if x>5:
+    print('ok')
+if x>=10:
+    print('nope')
 
-print("hi " + name + " your pay is " + str(pay) + "per day")
