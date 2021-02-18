@@ -1,7 +1,14 @@
-x = 12;
+x=10
+y=22
+z=(x+y)
+if z==30:
+    print("ok")
+else:
+    print("o my god")
+#message end hear
 try:
-    x <= 0;
+    x=jksdfhb
 except:
-    print("ok shuu")
+    print("ok")
 
-print("ok cool")
+
